@@ -119,7 +119,7 @@ export function Sidebar() {
                     <p className="text-xs text-muted-foreground leading-relaxed">
                         Được thiết lập bởi cháu <span className="font-semibold text-foreground">Nông Xuân Thái</span> giành riêng cho dòng họ
                         <br />
-                        <span className="font-semibold text-foreground">Nguyễn Công - Nguyễn Khắc</span>
+                        <span className="font-semibold text-foreground">Nguyễn</span>
                         <br />
                         <span className="text-[10px] opacity-70">Xin trân trọng cảm ơn.</span>
                     </p>
