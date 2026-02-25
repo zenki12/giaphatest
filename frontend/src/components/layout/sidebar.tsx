@@ -117,11 +117,11 @@ export function Sidebar() {
             {!collapsed && (
                 <div className="border-t px-4 py-3">
                     <p className="text-xs text-muted-foreground leading-relaxed">
-                        Để thiết lập <span className="font-semibold text-foreground">gia phả điện tử</span> riêng cho dòng họ, truy cập được từ bất kì đâu, vui lòng liên hệ
+                        Được thiết lập bởi cháu <span className="font-semibold text-foreground">Nông Xuân Thái</span> giành riêng cho dòng họ
                         <br />
-                        <span className="font-semibold text-foreground">📞 088 999 1120</span>
+                        <span className="font-semibold text-foreground">Nguyễn Công - Nguyễn Khắc</span>
                         <br />
-                        <span className="text-[10px] opacity-70">để nhận báo giá.</span>
+                        <span className="text-[10px] opacity-70">Xin trân trọng cảm ơn.</span>
                     </p>
                 </div>
             )}
